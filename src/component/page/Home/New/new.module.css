@@ -1,0 +1,7 @@
+.newNav { margin-top: 20px;}
+.newNav > h2{float: left;}
+.newNav > h4{float: right;}
+
+.newContainer{width: 100%; height: 300px; background-color: skyblue;  clear: both;}
+.newBox{list-style: none; display: flex; padding: 0; justify-content: space-between;}
+.img{ display: inline-block; width: 20vw; height: 120px;}

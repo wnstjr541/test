@@ -1,0 +1,10 @@
+.mainHeader{
+  width: 70%; height: 200px; background: skyblue; float: right;
+} 
+.boxs{clear: both;width: 70%; height: 500px; background: khaki;}
+.box1{width: 20%; background: royalblue;}
+.box2{width: 20%; background: royalblue;}
+.box3{width: 20%; background: royalblue;}
+.box4{width: 20%; background: royalblue;}
+.box5{width: 20%; background: royalblue;}
+.box6{width: 20%; background: royalblue;}

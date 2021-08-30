@@ -1,0 +1,13 @@
+.midContainer{background: rgb(238, 168, 82); }
+.midContainer ul{list-style: none;}
+.midContainer h2{border-bottom: 1px solid #fff; }
+
+.midIcon{display: flex; justify-content: space-around;}
+.midIcon li{ height: 50px;}
+
+.event li em{color: darkseagreen;}
+
+.eventContainer{display: flex; justify-content: space-between;}
+.eventBox{width: 30%; background-color: whitesmoke;}
+
+.icon{ display: inline-block; width: 20%;}

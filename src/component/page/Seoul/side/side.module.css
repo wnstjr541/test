@@ -1,0 +1,10 @@
+
+/* side */
+.sideContainer{width: 20%; background: skyblue; height: auto; float: left;}
+.sidetitle{border-bottom: 1px solid #fff; padding-bottom: 5px;}
+.sidebox{list-style: none; padding: 0;}
+
+.sidebox>li{
+    height: 30px;
+}
+.sidebox>li:hover{color: white;}
